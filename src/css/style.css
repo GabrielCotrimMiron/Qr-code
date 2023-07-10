@@ -1,0 +1,55 @@
+body 
+{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.principal
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card
+{
+    border-radius: 20px;
+    box-shadow: 7px 7px 13px 0 rgba(50, 50, 50, 0.22);
+    padding: 30px;
+    margin: 60px;
+    width: 400px;
+    background-color: white;
+    margin-top: 130px;
+    
+}
+
+img
+{
+    width: 350px;
+    border-radius: 15px;
+
+}
+
+.principal .card .txtprincipal
+{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    font-display: swap;
+    max-width: 400;
+    margin-bottom: 5%;
+    color: hsl(216, 63%, 16%);
+}
+
+.principal .card .txtsecundario
+{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    font-display: swap;
+    max-width: 400;
+    margin-top: 2%;
+    color: hsl(220, 15%, 55%)
+    
+}
