@@ -14,7 +14,6 @@ O Projeto QR Code Quick Access é uma aplicação web que visa fornecer aos usu�
 ## Principais Recursos
 
 - **Acesso Rápido:** Escaneie o QR code central para acessar o site de maneira rápida e direta.
-- **Design Responsivo:** Desenvolvido com design responsivo em mente, garantindo uma experiência suave em dispositivos variados.
 - **Tecnologias Fundamentais:** Construído com HTML e CSS, demonstrando a implementação de conceitos básicos de desenvolvimento web.
 
 ## Como Usar
