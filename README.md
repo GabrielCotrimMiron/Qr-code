@@ -7,6 +7,8 @@ Bem-vindo ao **Projeto QR Code Quick Access**!
 
 Este projeto foi desenvolvido de forma individual, seguindo a base do site FrontEnd Mentor, e apresenta um QR code central que oferece um acesso rápido ao site.
 
+ **Acesse o projeto online:** [Clique aqui](https://gabrielcotrimmiron.github.io/Qr-code/) 
+
 ## Sobre o Projeto
 
 O Projeto QR Code Quick Access é uma aplicação web que visa fornecer aos usuários um meio rápido e conveniente de acessar o site por meio de um QR code. Utilizando tecnologias web como HTML e CSS, este projeto demonstra uma solução prática e simples para compartilhar links.
